@@ -1,0 +1,26 @@
+.iosButton{
+    -fx-background-radius:30;
+}
+.color1{
+    -fx-background-color:#F29611;
+    -fx-background-radius:30;
+    -fx-text-fill:#FFF;
+}
+.color2{
+    -fx-background-color:#ACACAC;
+    -fx-background-radius:30;
+    -fx-text-fill:#000;
+}
+.color3{
+    -fx-background-color:#3E3E3E;
+    -fx-background-radius:30;
+    -fx-text-fill:#FFF;
+}
+.vboxStyle{
+    -fx-background-color:#111111;
+    -fx-background-radius:15;
+    -fx-text-fill:#FFF;
+}
+.anchorPaneStyle{
+    -fx-background-color:rgba(0,0,0,0);
+}
